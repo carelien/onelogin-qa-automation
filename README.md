@@ -1,1 +1,1 @@
-# onelogin-qa-automation
+# qa-automation
